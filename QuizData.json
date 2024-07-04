@@ -1,0 +1,60 @@
+{
+    "responseCode": 0,
+    "results": [
+        {
+            "category": "Basics",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Wie programmiert man eine Variable in Xcode?",
+            "correctAnswer": "var x = y",
+            "incorrectAnswers": [
+                "let x = y",
+                "variable x = y"
+            ]
+        },
+        {
+            "category": "Basics",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Wie programmiert man eine Konstante in Xcode?",
+            "correctAnswer": "let x = y",
+            "incorrectAnswers": [
+                "var x = y",
+                "constant x = y"
+            ]
+        },
+        {
+            "category": "Basics",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Wie programmiert man mehrere Konstanten/Variablen gleichzeitig in Xcode?",
+            "correctAnswer": "var/ let x = 1, y = 2, z = 3",
+            "incorrectAnswers": [
+                "variable/ constant x = 1, y = 2, z = 3",
+                "var/ let x, y, z = 1, 2, 3"
+            ]
+        },
+        {
+            "category": "Basics",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Wie wird der Typ einer Variable deklariert",
+            "correctAnswer": "var x: Typ",
+            "incorrectAnswers": [
+                "var x = Typ",
+                "var Typ: x"
+            ]
+        },
+        {
+            "category": "Basics",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Welche Werte kann eine Variable des Typs Int speichern",
+            "correctAnswer": "Ganze Zahlen",
+            "incorrectAnswers": [
+                "Kommazahlen",
+                "Zeichenketten"
+            ]
+        }
+    ]
+}
